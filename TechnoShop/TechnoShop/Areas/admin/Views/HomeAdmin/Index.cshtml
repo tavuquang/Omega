@@ -1,0 +1,54 @@
+﻿@using TechnoShop.DAO;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+<h3>Orders Total Product</h3>
+<table class="table">
+    <tr>
+        <th>
+            Product Name
+        </th>
+        <th>
+            Quantity
+        </th>
+        <th>
+            Total
+        </th>
+
+    </tr>
+    @{
+        double? a = 0;
+        foreach (var item in OrderDetailsDAO.GetListTotal())
+        {
+
+            foreach (var p in ProductDAO.GetList())
+            {
+                if (item.Product == p.Product_ID)
+                {
+                    <tr>
+                        <td>
+                            @p.Product_Name
+                        </td>
+                        <td>
+                            @item.Tong
+                        </td>
+                        <td>
+                            @string.Format("{0:#,###.##}", (p.Price * item.Tong))Đ
+
+                        </td>
+
+                    </tr>
+                    a = a + (p.Price * item.Tong);
+                }
+            }
+        }
+        <tr>
+            <td></td>
+            <td>Total</td>
+            <td>@string.Format("{0:#,###.##}", a)Đ</td>
+        </tr>
+    }
+</table>
+
+

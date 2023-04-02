@@ -1,79 +1,272 @@
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\TechnoShop.dll.config
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\TechnoShop.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\TechnoShop.pdb
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\csc.exe
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\csc.exe.config
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\csc.rsp
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\csi.exe
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\csi.exe.config
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\csi.rsp
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.Managed.Core.targets
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\Microsoft.Win32.Primitives.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.AppContext.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Collections.Immutable.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Console.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Globalization.Calendars.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.IO.Compression.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.IO.Compression.ZipFile.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.IO.FileSystem.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Net.Http.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Net.Sockets.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Reflection.Metadata.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.ValueTuple.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Xml.ReaderWriter.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Xml.XmlDocument.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Xml.XPath.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\System.Xml.XPath.XDocument.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\vbc.exe
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\vbc.exe.config
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\vbc.rsp
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\VBCSCompiler.exe
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\roslyn\VBCSCompiler.exe.config
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\Antlr3.Runtime.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\Microsoft.Web.Infrastructure.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\Newtonsoft.Json.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.Helpers.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.Mvc.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.Optimization.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.Razor.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.WebPages.Deployment.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.WebPages.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.WebPages.Razor.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\WebGrease.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.Helpers.xml
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.Mvc.xml
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.Optimization.xml
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.Razor.xml
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.WebPages.xml
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.WebPages.Deployment.xml
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\System.Web.WebPages.Razor.xml
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\Newtonsoft.Json.xml
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\Antlr3.Runtime.pdb
-D:\TechnoShop-master\TechnoShop\TechnoShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\TechnoShop-master\TechnoShop\TechnoShop\obj\Debug\TechnoShop.csproj.AssemblyReference.cache
-D:\TechnoShop-master\TechnoShop\TechnoShop\obj\Debug\TechnoShop.csproj.CoreCompileInputs.cache
-D:\TechnoShop-master\TechnoShop\TechnoShop\obj\Debug\TechnoShop.csproj.CopyComplete
-D:\TechnoShop-master\TechnoShop\TechnoShop\obj\Debug\TechnoShop.dll
-D:\TechnoShop-master\TechnoShop\TechnoShop\obj\Debug\TechnoShop.pdb
+D:\TechnoShop-master\TechnoShop\bin\TechnoShop.dll.config
+D:\TechnoShop-master\TechnoShop\bin\TechnoShop.dll
+D:\TechnoShop-master\TechnoShop\bin\TechnoShop.pdb
+D:\TechnoShop-master\TechnoShop\bin\roslyn\csc.exe
+D:\TechnoShop-master\TechnoShop\bin\roslyn\csc.exe.config
+D:\TechnoShop-master\TechnoShop\bin\roslyn\csc.rsp
+D:\TechnoShop-master\TechnoShop\bin\roslyn\csi.exe
+D:\TechnoShop-master\TechnoShop\bin\roslyn\csi.exe.config
+D:\TechnoShop-master\TechnoShop\bin\roslyn\csi.rsp
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TechnoShop-master\TechnoShop\bin\roslyn\System.Buffers.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\System.Collections.Immutable.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\System.Memory.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\System.Numerics.Vectors.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TechnoShop-master\TechnoShop\bin\roslyn\vbc.exe
+D:\TechnoShop-master\TechnoShop\bin\roslyn\vbc.exe.config
+D:\TechnoShop-master\TechnoShop\bin\roslyn\vbc.rsp
+D:\TechnoShop-master\TechnoShop\bin\roslyn\VBCSCompiler.exe
+D:\TechnoShop-master\TechnoShop\bin\roslyn\VBCSCompiler.exe.config
+D:\TechnoShop-master\TechnoShop\bin\Antlr3.Runtime.dll
+D:\TechnoShop-master\TechnoShop\bin\EntityFramework.dll
+D:\TechnoShop-master\TechnoShop\bin\EntityFramework.SqlServer.dll
+D:\TechnoShop-master\TechnoShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TechnoShop-master\TechnoShop\bin\Microsoft.Web.Infrastructure.dll
+D:\TechnoShop-master\TechnoShop\bin\Newtonsoft.Json.dll
+D:\TechnoShop-master\TechnoShop\bin\PagedList.dll
+D:\TechnoShop-master\TechnoShop\bin\PagedList.Mvc.dll
+D:\TechnoShop-master\TechnoShop\bin\System.Web.Helpers.dll
+D:\TechnoShop-master\TechnoShop\bin\System.Web.Mvc.dll
+D:\TechnoShop-master\TechnoShop\bin\System.Web.Optimization.dll
+D:\TechnoShop-master\TechnoShop\bin\System.Web.Razor.dll
+D:\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Deployment.dll
+D:\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.dll
+D:\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Razor.dll
+D:\TechnoShop-master\TechnoShop\bin\WebGrease.dll
+D:\TechnoShop-master\TechnoShop\bin\EntityFramework.xml
+D:\TechnoShop-master\TechnoShop\bin\EntityFramework.SqlServer.xml
+D:\TechnoShop-master\TechnoShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TechnoShop-master\TechnoShop\bin\Newtonsoft.Json.xml
+D:\TechnoShop-master\TechnoShop\bin\PagedList.xml
+D:\TechnoShop-master\TechnoShop\bin\PagedList.Mvc.xml
+D:\TechnoShop-master\TechnoShop\bin\System.Web.Helpers.xml
+D:\TechnoShop-master\TechnoShop\bin\System.Web.Mvc.xml
+D:\TechnoShop-master\TechnoShop\bin\System.Web.Optimization.xml
+D:\TechnoShop-master\TechnoShop\bin\System.Web.Razor.xml
+D:\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.xml
+D:\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Deployment.xml
+D:\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Razor.xml
+D:\TechnoShop-master\TechnoShop\bin\Antlr3.Runtime.pdb
+D:\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.CoreCompileInputs.cache
+D:\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.CopyComplete
+D:\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.dll
+D:\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.pdb
+D:\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.AssemblyReference.cache
+D:\C#\TechnoShop-master\TechnoShop\bin\TechnoShop.dll.config
+D:\C#\TechnoShop-master\TechnoShop\bin\TechnoShop.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\TechnoShop.pdb
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\csc.exe
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\csc.exe.config
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\csc.rsp
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\csi.exe
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\csi.exe.config
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\csi.rsp
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\System.Buffers.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\System.Memory.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\System.Numerics.Vectors.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\vbc.exe
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\vbc.exe.config
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\vbc.rsp
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\VBCSCompiler.exe
+D:\C#\TechnoShop-master\TechnoShop\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\TechnoShop-master\TechnoShop\bin\Antlr3.Runtime.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\EntityFramework.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\EntityFramework.SqlServer.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\Newtonsoft.Json.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\PagedList.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\PagedList.Mvc.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.Helpers.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.Mvc.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.Optimization.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.Razor.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Deployment.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Razor.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\WebGrease.dll
+D:\C#\TechnoShop-master\TechnoShop\bin\EntityFramework.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\EntityFramework.SqlServer.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\Newtonsoft.Json.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\PagedList.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\PagedList.Mvc.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.Helpers.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.Mvc.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.Optimization.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.Razor.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Deployment.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Razor.xml
+D:\C#\TechnoShop-master\TechnoShop\bin\Antlr3.Runtime.pdb
+D:\C#\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.CoreCompileInputs.cache
+D:\C#\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.CopyComplete
+D:\C#\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.dll
+D:\C#\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.pdb
+D:\C#\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.AssemblyReference.cache
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\TechnoShop.dll.config
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\TechnoShop.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\TechnoShop.pdb
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\csc.exe
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\csc.exe.config
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\csc.rsp
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\csi.exe
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\csi.exe.config
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\csi.rsp
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\System.Buffers.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\System.Collections.Immutable.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\System.Memory.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\System.Numerics.Vectors.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\vbc.exe
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\vbc.exe.config
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\vbc.rsp
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\VBCSCompiler.exe
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\roslyn\VBCSCompiler.exe.config
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\Antlr3.Runtime.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\EntityFramework.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\EntityFramework.SqlServer.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\Microsoft.Web.Infrastructure.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\Newtonsoft.Json.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\PagedList.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\PagedList.Mvc.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.Helpers.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.Mvc.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.Optimization.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.Razor.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Deployment.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Razor.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\WebGrease.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\EntityFramework.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\EntityFramework.SqlServer.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\Newtonsoft.Json.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\PagedList.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\PagedList.Mvc.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.Helpers.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.Mvc.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.Optimization.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.Razor.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Deployment.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Razor.xml
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\bin\Antlr3.Runtime.pdb
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.AssemblyReference.cache
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.CoreCompileInputs.cache
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.CopyComplete
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.dll
+D:\2013\THUC_TAP_VA_DO_AN\DO_AN\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.pdb
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\TechnoShop.dll.config
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\TechnoShop.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\TechnoShop.pdb
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\csc.exe
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\csc.exe.config
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\csc.rsp
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\csi.exe
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\csi.exe.config
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\csi.rsp
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\System.Buffers.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\System.Collections.Immutable.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\System.Memory.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\System.Numerics.Vectors.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\vbc.exe
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\vbc.exe.config
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\vbc.rsp
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\VBCSCompiler.exe
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\roslyn\VBCSCompiler.exe.config
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\Antlr3.Runtime.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\EntityFramework.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\EntityFramework.SqlServer.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\Microsoft.Web.Infrastructure.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\Newtonsoft.Json.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\PagedList.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\PagedList.Mvc.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.Helpers.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.Mvc.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.Optimization.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.Razor.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Deployment.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Razor.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\WebGrease.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\EntityFramework.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\EntityFramework.SqlServer.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\Newtonsoft.Json.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\PagedList.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\PagedList.Mvc.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.Helpers.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.Mvc.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.Optimization.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.Razor.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Deployment.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\System.Web.WebPages.Razor.xml
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\bin\Antlr3.Runtime.pdb
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.AssemblyReference.cache
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.CoreCompileInputs.cache
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.csproj.CopyComplete
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.dll
+E:\ThangLV\DO_AN\CD - ForUser\Xay_Dung_Website_Thuong_Mai_Ban_Dien_Thoai\SETUP\TechnoShop-master\TechnoShop\obj\Debug\TechnoShop.pdb
